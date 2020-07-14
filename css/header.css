@@ -1,0 +1,8 @@
+.wrap{width:480px; margin-left:auto; margin-right: auto;}
+
+.main_nav{float:right; margin-top:14px; margin-right:20px;}
+.header{width:480px; height:50px; background-color:#b5121b;}
+.title{float:left; width:250px; margin-left:115px;}
+h1{text-align:center;}
+  h1>a{font-family:'Roboto'; font-weight:bold; font-size:28px; color:white; text-decoration:none;}
+.main_banner{clear:both;}

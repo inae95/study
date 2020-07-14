@@ -1,0 +1,26 @@
+.quick_menu>div{float:left; width:95px; height:100px; margin-left:20px;;}
+.quick_menu{height:100px; background-color:white;}
+.quick_menu img{margin-top:20px;}
+  .quick_menu h2{text-align:center; margin-top:-5px;}
+  .quick_menu h2 a{font-family:'Roboto'; font-size:12px; color:#666666;}
+
+  .service{clear: both; background-color:white;}
+  .service>div{position:relative; margin-bottom:10px;}
+  .service>.svc03{margin-bottom:0;}
+  .service>div>.over_txt{position:absolute; left:20px; top:33px;}
+  .service>.svc02>.over_txt, .service>.svc03>.over_txt{top:23px;}
+    .svc_tit p{margin-bottom:10px; font-family:'Noto Sans Korean'; font-weight:bold; font-size:30px; color:white;}
+    .svc_txt p{font-family:'Noto Sans Korean'; font-size:18px; line-height:24px; color:white;}
+    .svc_tit p span, .svc_txt p span{font-family:'Roboto';}
+
+    .notice{height:80px; padding-left:20px; padding-right: 20px; background-color:white;}
+    .notice_top_left, .notice_bottom_left{float: left;}
+    .notice_top_right, .notice_bottom_right{float: right;}
+    .second_li{clear: both;}
+      .notice_top_left{font-family:'Roboto'; font-weight:bold; font-size:14px; color:#333333}
+      .notice_top_right>a{font-family:'Roboto'; font-weight:bold; font-size:14px; color:#b5121b} 
+      .notice_bottom_left>a{font-family:'Noto Sans Korean'; font-size:13px; color:#999999}
+      .notice_bottom_right>a{font-family:'Roboto'; font-size:13px; color:#999999}
+    .notice_tit{margin-top:20px;}
+    .notice_txt{padding-top:15px;}
+    .notice_top_right{margin-top:-5px;}
